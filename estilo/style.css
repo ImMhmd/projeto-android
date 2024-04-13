@@ -110,12 +110,12 @@ main h1{
 }
 
 main h2{
+    display: inline;
     font-family: var(--fonte-android);
     font-size: 1.3em;
-    color: #2FBD39;
-    background-image: linear-gradient(to right, var(--cor4), transparent);
-    padding-left: 10px;
-
+    color: #038a0c;
+    background-color: #b4f5b8;
+    padding: 0px 10px;
 }
 
 main p{
